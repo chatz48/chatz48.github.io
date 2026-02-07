@@ -37,7 +37,7 @@ Then visit `http://localhost:8000`.
    git add .
    git commit -m "Initial portfolio"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git remote add origin https://github.com/chatz48/chatz48.github.io
    git push -u origin main
    ```
 
